@@ -11,4 +11,4 @@ Hell’s Kitchen, also known as Clinton is a neighborhood on the West side of Mi
 
 ## HC7 and HC8 summary
 
-## Map from HC9
+## Map from HC10
