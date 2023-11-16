@@ -13,7 +13,8 @@ When observing and exploring NYC's Clean Heat Program, DEP Boiler Registration, 
 New York City faces significant greenhouse gas emissions, primarily from the burning of fossil fuels for electricity, with an emphasis on aging power plants. Buildings, particularly those constructed in the 1950s, contribute two-thirds of the city's greenhouse gas emissions, prompting legislative measures like Local Law 97 to reduce emissions by 80% by 2050. The breakdown of emissions by building type highlights the significant impact of large buildings, particularly in Manhattan, which has the highest population density. The energy inefficiency of appliances in densely populated areas further contributes to the demand for electricity. However, the city is actively addressing these challenges by passing new legislation, including a 2026 ban on fossil fuels in most new buildings, reflecting a commitment to a more sustainable and environmentally friendly future for New York City.
 
 ## HC7 and HC8 summary
-
+![BTUNeighborhoods](https://github.com/axm92/HellsKitchen1.github.io/assets/148747458/bd0329d1-e1b1-473b-973e-50d208c2f2d0)
+Here we can see the Boiler Capacities for all of our neighborhoods. It is clear that Kips Bay has the hisghest Boiler Capacity. 
 ## Map from HC10
 
 <iframe src="HellsKitchen.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
