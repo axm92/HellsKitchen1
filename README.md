@@ -14,8 +14,24 @@ New York City faces significant greenhouse gas emissions, primarily from the bur
 
 ## HC7 and HC8 summary
 ![BTUNeighborhoods](https://github.com/axm92/HellsKitchen1.github.io/assets/148747458/bd0329d1-e1b1-473b-973e-50d208c2f2d0)
-Here we can see the Boiler Capacities for all of our neighborhoods. It is clear that Kips Bay has the hisghest Boiler Capacity. 
+
+Here we can see the Boiler Capacities for all of our neighborhoods. It is clear that Kips Bay has the highest Boiler Capacity. 
 ## Map from HC10
+![MTU](https://github.com/axm92/HellsKitchen1.github.io/assets/148747458/ddd9ea57-c546-464f-a7b0-de0e963fcc2d)
+
+It can be seen that Hells Kitchen has the highest mean total usage of gallons depsite Kips Bay having the highest boiler capacity. This is due to the fact that the boilers in Hells Kitchen are signigicantly larger.
+
+![pieChart](https://github.com/axm92/HellsKitchen1.github.io/assets/148747458/ae0e6134-c07a-4ada-9b61-ffc1540a6a6f)
+
+The graph shows that most of the boiler ages range between 16 to 30 years old. Showing that most of these boilers aren't that old and that is good because that means the city is doing it's job to make sure these boilers are up to date. 
+
+![scatterPlot](https://github.com/axm92/HellsKitchen1.github.io/assets/148747458/db2b72a4-89b5-4388-8fad-3585cb56e70c)
+
+Here we can see that there is no correlation between the number of floors a building has nad the amount of gallons of fuels used. 
+
+![greenBuildingBarGraph](https://github.com/axm92/HellsKitchen1.github.io/assets/148747458/b64da377-0db3-4f27-bbba-60f63d97343c)
+
+Most of the greener greater building are in the Upper East Side, then following is Greenwich, and Kips Bay. It appears that in Hells Kitchen and Soho they fall pretty short in comparison to the others.
 
 <iframe src="HellsKitchen.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
